@@ -1,2 +1,2 @@
 # Employee-Attrition
-Predicting employee attrition
+This project examined features predicting whether an employee will leave their job, using exploratory data analysis and machine learning.
